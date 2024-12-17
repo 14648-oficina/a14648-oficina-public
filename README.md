@@ -21,5 +21,14 @@ O Objetivo deste jogo é que o jogador descubra um numero aleatorio entre 0-20 c
 Caso o jogador perda, o jogador ira ser questionado se quer jogar de novo ou não.
 Por ultimo o jogo tem um breve tutorial opcional no começo do jogo.
 
+<h3>---Ferramenta de stock---</h3>
+Este programa utiliza varias funções para:
+Registar o material e a quantidade desse material
+Modificar a quantidade do stock
+Remoção do stock
+
+<h3>---Registo de pedidos---</h3>
+
+
 
 <h6>meow :3</h6>
