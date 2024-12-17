@@ -28,6 +28,7 @@ Modificar a quantidade do stock
 Remoção do stock
 
 <h3>---Registo de pedidos---</h3>
+Este programa, a partir de funções, é capaz de fazer muitas coisas, Como registar pedidos, exebir pedidos, modificar o estado dos pedidos
 
 
 
