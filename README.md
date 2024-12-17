@@ -6,9 +6,13 @@
 Neste repositorios localizam-se os ficheiros de multiplos programas de PSI realizados na sala de aula.
 Neste Repositorio atualmente encontram-se:
 - Guess the Number
+
 - Ferramenta de Stock
+  
 - Ferramenta de Registro de Pedidos
+  
 - Programa de registro de Questionarios
+  
 
 <h3>---Guess the Number---</h3>
 Este Programa Utiliza multiplas funções e ciclos while para que o jogo so acabe com ordens diretas do jogador.
