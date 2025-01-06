@@ -79,7 +79,7 @@ def exportar_resultados2(respostas):
 def main():
   while True:
       print("\nSistema de Questionário de Satisfação")
-      print("1. Responder ao Questionário sobre a escola2")
+      print("1. Responder ao Questionário sobre a escola")
       print("2. Responder ao Questionário sobre uma Turma")
       print("3. Sair")
       opcao = input("Escolha uma opção: ")
